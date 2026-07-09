@@ -1,3 +1,1 @@
-.godot/
-exported_caches/
-*.tmp
+Nothing should be ignored based on the provided file changes. The only modified file is 'game_launcher.tscn', which appears to be a Godot scene file (source/config file), and there are no build artifacts, dependencies, or temporary files in the changes.
